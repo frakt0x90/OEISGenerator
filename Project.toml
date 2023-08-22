@@ -1,0 +1,13 @@
+name = "OEISGenerator"
+uuid = "20ee913a-34a4-4767-a65b-9c3ea03cfa7f"
+authors = ["Jeremy Batterson"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
